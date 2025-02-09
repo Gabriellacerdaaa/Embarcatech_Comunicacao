@@ -105,18 +105,11 @@ Recomenda-se a produção de um vídeo demonstrativo (até 2 minutos), que inclu
 - A alternância dos LEDs (verde e azul) via botões.
 - A atualização dos padrões na matriz de LEDs ao receber dígitos via Serial Monitor.
 
-## 8. Contribuições
-
-Contribuições são bem-vindas! Para colaborar:
-- Faça um fork deste repositório.
-- Crie uma branch para sua funcionalidade.
-- Envie um pull request documentando suas alterações.
-
-## 9. Licença
+## 8. Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE). Consulte o arquivo LICENSE para mais detalhes.
 
-## 10. Contato
+## 9. Contato
 
 - **Autor:** Gabriel Lacerda
 - **Email:** gabriel.lacerda0563@gmail.com
